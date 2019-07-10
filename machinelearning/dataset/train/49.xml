@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>49</filename>
+  <path>F:\Programming\geeksforgeeks_project\models-master\research\object_detection\images\train\49.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>213</width>
+    <height>236</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bottle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>80</xmin>
+      <ymin>21</ymin>
+      <xmax>151</xmax>
+      <ymax>158</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>test</folder>
+  <filename>7</filename>
+  <path>F:\Programming\geeksforgeeks_project\models-master\research\object_detection\images\test\7.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>271</width>
+    <height>186</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>shoe</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>21</xmin>
+      <ymin>29</ymin>
+      <xmax>260</xmax>
+      <ymax>149</ymax>
+    </bndbox>
+  </object>
+</annotation>
